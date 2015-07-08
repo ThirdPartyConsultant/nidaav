@@ -22,6 +22,9 @@ public class VaadinssfeUI extends UI {
 	public static class Servlet extends VaadinServlet {
 	}
 
+	/**
+	 * connect to SSFE test
+	 * */
 	@Override
 	protected void init(VaadinRequest request) {
 		final VerticalLayout layout = new VerticalLayout();
