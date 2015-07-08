@@ -23,7 +23,10 @@ public class VaadinssfeUI extends UI {
 	}
 
 	/**
+	 * 
 	 * connect to SSFE test
+	 * @author doug
+	 * 
 	 * */
 	@Override
 	protected void init(VaadinRequest request) {
